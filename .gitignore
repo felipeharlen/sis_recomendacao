@@ -1,0 +1,12 @@
+# Pastas
+downloads/
+fashion_data/
+images/
+img_vectors/
+ImgSim/
+myntradataset/
+
+# Arquivos
+fashion-product-images-small.zip
+styles.csv
+t.ann
